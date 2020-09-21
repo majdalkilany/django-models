@@ -1,5 +1,8 @@
-Name of Peoject: django models 
-Estimate of time needed to complete: 2 h
+### Name of Peoject: django models 
+
+
+### Estimate of time needed to complete: 2 h
+
 Start time: 2 pm
 
 Finish time: 5:00 pm
